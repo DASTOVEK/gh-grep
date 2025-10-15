@@ -1,0 +1,14 @@
+name: gh-grep
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/0ba52785-06e2-45be-a0a2-1767b4ba79ad
+description: ':octocat: Print lines matching a pattern in repositories using GitHub API'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:go
+  - source:github
+customFields: null
